@@ -1,4 +1,4 @@
-module github.com/joncooperworks/judas
+module github.com/pgollangi/judas
 
 go 1.15
 
